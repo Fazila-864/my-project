@@ -1,0 +1,18 @@
+Q1: Difference between git pull and git fetch?
+Ans: git fetch only downloads the latest commits without merging them, whereas git pull both downloads and merges the latest changes.
+
+Q2: Why is branching useful in team projects?
+Ans: Branching allows team members to work on different features and bug fixes without affecting the main branch.
+
+Q3: How does a pull request facilitate collaboration?
+Ans: A pull request provides a structured way for team members to review and merge code changes collaboratively.
+
+Q4: When is git rebase preferable to git merge?
+Ans: When you want a cleaner commit history and want to avoid unnecessary merge commits.
+
+
+
+
+
+
+
